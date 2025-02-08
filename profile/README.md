@@ -13,4 +13,4 @@ To contribute you are **required** to install:
 - NodeJS
 - Luau
 
--# If you have any more qeustions feel free to dm @privateuserttv at https://discord.gg
+## If you have any more qeustions feel free to dm @privateuserttv at https://discord.gg
